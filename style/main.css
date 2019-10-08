@@ -1,0 +1,24 @@
+body {
+    /*margin-left: 0.5rem;*/
+    /*margin-right: 0.5rem;*/
+}
+#content {
+    background: #ffffff;
+    /*background: -moz-linear-gradient(top,  #D3D3D3 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#D3D3D3), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top,  #D3D3D3 0%,#ffffff 100%);
+    background: -o-linear-gradient(top,  #D3D3D3 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top,  #D3D3D3 0%,#ffffff 100%);
+    background: linear-gradient(to bottom,  #D3D3D3 0%,#ffffff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D3D3D3', endColorstr='#ffffff',GradientType=0 );*/
+
+    text-align: center;
+    width: 100%;
+}
+#content img {
+    max-width: 1024px;
+    width: 100%;
+    height: auto;
+    width: auto\9;
+    margin-top: 0.5rem;
+}
